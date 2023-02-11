@@ -1,0 +1,6 @@
+Hello AWS
+/
+
+dbkjsd
+dsflsdf
+Net7-aws-s3-app
